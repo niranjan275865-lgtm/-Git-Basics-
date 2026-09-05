@@ -1,0 +1,6 @@
+git rm <file> — Remove file from Working Directory + Staging Area
+rm <file> — Remove file from Working Directory
+git restore --staged <file> — Remove file from Staging Area only
+git restore <file> — Restore/discard Working Directory changes
+git status — Check the current file status
+Practiced Git file removal commands using Git Bash 
